@@ -1,4 +1,4 @@
-# 👋 Hey, moi c’est [Chris] !
+# 👋 Hey, moi c’est Chris !
 
 💻 Étudiant passionné par le développement web  
 📚 Actuellement en train d’apprendre **HTML, CSS, JavaScript et PHP**  
@@ -31,7 +31,7 @@
 ---
 
 ## 📫 Me contacter
-📩 [levis.crstpe@gmail.com]  
+📩 levis.crstpe@gmail.com  
 🌐 [LinkedIn](ton_lien_linkedin)  
 
 ✨ Merci d’avoir visité mon profil, et au plaisir d’échanger ! 🚀
