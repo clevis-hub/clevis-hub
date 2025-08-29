@@ -16,8 +16,8 @@
 ---
 
 ## 📂 Mes projets
-- 🎨 [Mon premier portfolio en HTML/CSS](lien_vers_le_repo)  
-- 🕹️ [Petit projet perso en JavaScript](lien_vers_le_repo)  
+- 🎨 [Mon premier portfolio en HTML/CSS](coming_soon)  
+- 🕹️ [Petit projet perso en JavaScript](coming_soon)  
 
 *(d’autres arrivent bientôt, restez connectés 👀)*  
 
@@ -33,6 +33,6 @@
 
 ## 📫 Me contacter
 📩 levis.crstpe@gmail.com  
-🌐 [LinkedIn](ton_lien_linkedin)  
+🌐 [LinkedIn](lien_a_rajouter)  
 
 ✨ Merci d’avoir visité mon profil, et au plaisir d’échanger ! 🚀
