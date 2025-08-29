@@ -15,8 +15,8 @@
 ---
 
 ## 📂 Mes projets
-- 🎨 [Mon premier portfolio en HTML/CSS](lien_vers_ton_repo)  
-- 🕹️ [Petit projet perso en JavaScript](lien_vers_ton_repo)  
+- 🎨 [Mon premier portfolio en HTML/CSS](lien_vers_le_repo)  
+- 🕹️ [Petit projet perso en JavaScript](lien_vers_le_repo)  
 
 *(d’autres arrivent bientôt, restez connectés 👀)*  
 
