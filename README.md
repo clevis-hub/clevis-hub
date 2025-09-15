@@ -27,7 +27,7 @@
 ---
 
 ## 📂 Mes projets
-- 🎨 [Mon premier portfolio en HTML/CSS](coming_soon)  
+- 🎨 [La Kamoulox Machine](https://clevis-hub.github.io/Random-Generator/) 
 - 🕹️ [Petit projet perso en JavaScript](coming_soon)  
 
 *(d’autres arrivent bientôt, restez connectés 👀)*  
