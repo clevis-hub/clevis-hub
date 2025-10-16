@@ -1,7 +1,7 @@
 # 👋 Hey, moi c’est Chris !
 
 💻 Étudiant passionné par le développement web  
-📚 Actuellement en train d’apprendre **JavaScript et PHP**  
+📚 Actuellement en train d’apprendre **Symfony et React**  
 🚀 Objectif : trouver une **alternance** pour progresser, coder, et relever de vrais défis !  
 
 ---
